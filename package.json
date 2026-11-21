@@ -1,0 +1,12 @@
+{
+  "name": "mesh-relay-server",
+  "version": "1.0.0",
+  "description": "Relay server for Mesh App Internet Bridge — lets mesh messages travel between countries (e.g. Singapore to Myanmar) via bridge phones",
+  "main": "relay-server.js",
+  "scripts": {
+    "start": "node relay-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
